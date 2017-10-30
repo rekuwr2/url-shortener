@@ -1,0 +1,23 @@
+{
+  "name": "url-shortener",
+  "version": "1.0.0",
+  "description": "URL SHORTENER",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rekuwr2/url-shortener.git"
+  },
+  "author": "rekuwr2",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rekuwr2/url-shortener/issues"
+  },
+  "homepage": "https://github.com/rekuwr2/url-shortener#readme",
+  "dependencies": {
+    "express": "^4.16.2",
+    "mongoose": "^4.12.5"
+  }
+}
